@@ -31,7 +31,7 @@ Navigate to the cloned directory:
 
 bash
 
-    cd wordlist-generator
+    cd WordlistGeneratorScript
 
 
 Ensure the script is executable:
