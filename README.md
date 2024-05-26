@@ -24,7 +24,7 @@ The Wordlist Generator Script is a bash script that automates the process of gen
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/wordlist-generator.git
+   git clone https://github.com/dineshpathro90/WordlistGeneratorScript.git
 
 
 Navigate to the cloned directory:
